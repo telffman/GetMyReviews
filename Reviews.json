@@ -1,0 +1,1379 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          4.9042204,
+          52.3827992
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-02-10T16:34:12.356293Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xf8cb0b25593cfd6",
+        "location": {
+          "address": "Buiksloterweg 5, 1031 CC Amsterdam, Netherlands",
+          "country_code": "NL",
+          "name": "Stick-Up Indofood"
+        },
+        "review_text_published": "Wow really good 👍🏼"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.1065174,
+          38.1879470
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-02-07T10:05:51.245865Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe24135abacb2b92e",
+        "location": {
+          "address": "90045 Punta Raisi Metropolitan City of Palermo, Italy",
+          "country_code": "IT",
+          "name": "Locauto Check Point"
+        },
+        "review_text_published": "The best car rental. Fast check in and excellent drop off. Great service, special mention to Pietro!"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3578287,
+          38.1165602
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-02-03T22:04:37.610114Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb9c7cb609cfeb1d3",
+        "location": {
+          "address": "Via dei Candelai, 110, 90134 Palermo PA, Italy",
+          "country_code": "IT",
+          "name": "Trattoria no zu Totó e niputi"
+        },
+        "questions": [
+          {
+            "question": "Price per person",
+            "selected_option": "€10–20"
+          },
+          {
+            "question": "Food",
+            "rating": 5
+          },
+          {
+            "question": "Service",
+            "rating": 5
+          },
+          {
+            "question": "Atmosphere",
+            "rating": 3
+          }
+        ],
+        "review_text_published": "Amazing! Excellent food and very good prices! 10/10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6088068,
+          37.3113456
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-02-03T11:45:05.538411Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9f5c03f70cdc6a02",
+        "location": {
+          "address": "S.S. 640 km 10, 92100 Agrigento AG, Italy",
+          "name": "Bar della Valle Agrigento Tabacchi Carburanti Q8"
+        },
+        "review_text_published": "Great sandwiches and products"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.3607304,
+          39.4748103
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-01-10T15:49:38.371133Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc368f912c7305a59",
+        "location": {
+          "address": "Carrer de Misser Mascó, 42, El Pla del Real, 46010 València, Valencia, Spain",
+          "country_code": "ES",
+          "name": "One Burger"
+        },
+        "questions": [
+          {
+            "question": "Service",
+            "selected_option": "Dine in"
+          },
+          {
+            "question": "Price per person",
+            "selected_option": "€10–20"
+          },
+          {
+            "question": "Food",
+            "rating": 3
+          },
+          {
+            "question": "Service",
+            "rating": 3
+          },
+          {
+            "question": "Atmosphere",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "On the upside, the place and the vibe are really cool.\nOn the downside, the burger is average and the fries are a rip off.\n\nPd: automated service machine for ordering, absolutely no contact with any staff and at payout you ask for tips? You guys are kidding?"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.3632541,
+          39.4802197
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-01-10T15:44:48.765564Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x66f726343f608a51",
+        "location": {
+          "address": "C. de Menéndez y Pelayo, 5, El Llano del Real, 46010 Valencia, Spain",
+          "country_code": "ES",
+          "name": "Navel Brunch & Coffee"
+        },
+        "questions": [
+          {
+            "question": "Food",
+            "rating": 5
+          },
+          {
+            "question": "Service",
+            "rating": 5
+          },
+          {
+            "question": "Atmosphere",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "Great coffee shop"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.3787755,
+          39.4654627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-01-05T16:07:15.171450Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7a4504f7850a627d",
+        "location": {
+          "address": "C/ de Julio Antonio, 26, Extramurs, 46007 València, Valencia, Spain",
+          "country_code": "ES",
+          "name": "Casa Tafu"
+        },
+        "questions": [
+          {
+            "question": "Food",
+            "rating": 5
+          },
+          {
+            "question": "Service",
+            "rating": 5
+          },
+          {
+            "question": "Atmosphere",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "Excelente, comida muy muy rica"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.3654808,
+          39.4671947
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-12-15T14:16:14.490368Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe72b481695528364",
+        "location": {
+          "address": "Carrer del Comte d'Altea, 43, L'Eixample, 46005 València, Valencia, Spain",
+          "country_code": "ES",
+          "name": "Restaurante Japonés - SAMURAI"
+        },
+        "questions": [
+          {
+            "question": "Food",
+            "rating": 1
+          },
+          {
+            "question": "Service",
+            "rating": 4
+          },
+          {
+            "question": "Atmosphere",
+            "rating": 4
+          }
+        ],
+        "review_text_published": "Supermarket quality sushi really disappointing"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.0325825,
+          39.9814653
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-11-01T16:06:53.390310Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xa2adf20367bec3de",
+        "location": {
+          "address": "Carrer Ciscar, 39, BAJO, 12003 Castellón de la Plana, Castellón, Spain",
+          "country_code": "ES",
+          "name": "Wiber Rent a Car"
+        },
+        "review_text_published": "DO NOT TRUST! Eviten este servicio de alquiler de autos. Largas colas para retirar el auto y un servicio de drop off delirante. Alquilan autos con más de 60 mil kilómetros, con un montón de rayones, golpes y detalles en la pintura para después examinar el auto en el drop off durante 15 minutos. Grabe un video del estado del auto al retirarlo y aun así encontrar “daños” en partes que no se veían bien en detalle en el video. Algunos “daños” que se me atribuían pude demostrar que no eran míos y que las fotos con las que contaban no detallaban todos los daños. Aun así dos pequeñas marcas en la pintura fueron suficiente para que no me devuelvan la totalidad del depósito y recarguen al precio del alquiler el arreglo de esos “daños” por el precio de +150€ cada uno."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.5812732,
+          38.2883204
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-10-30T17:30:44.418999Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb02091cd34f7462d",
+        "location": {
+          "address": "Junto a rotonda, Carr. de Torrellano al Aeropuerto, S/N, 03320 Torrellano, Alicante, Spain",
+          "country_code": "ES",
+          "name": "Cpar hire"
+        },
+        "review_text_published": "DO NOT TRUST! Eviten este servicio de alquiler de autos. Largas colas para retirar el auto y un servicio de drop off delirante. Alquilan autos con más de 60 mil kilómetros, con un montón de rayones, golpes y detalles en la pintura para después examinar el auto en el drop off durante 15 minutos. Grabe un video del estado del auto al retirarlo y aun así encontrar “daños” en partes que no se veían bien en detalle en el video. Algunos “daños” que se me atribuían pude demostrar que no eran míos y que las fotos con las que contaban no detallaban todos los daños. Aun así dos pequeñas marcas en la pintura fueron suficiente para que no me devuelvan la totalidad del depósito y recarguen al precio del alquiler el arreglo de esos “daños” por el precio de +150€ cada uno. Es un abuso total hacia los clientes y un claro indicio de que estas compañías no están en el negocio de alquiler de autos si no en el negocio de “arreglos” ya que ponen el precio del arreglo de manera unilateral. Un paragolpes nuevo, la pieza entera, cuesta menos que lo cobran por “daños” una vergüenza"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -4.4757897,
+          36.6734642
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-10-30T17:25:05.126099Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x8ce674c5302c493b",
+        "location": {
+          "address": "Ctra. Guadalmar, 7, Churriana, 29004 Málaga, Spain",
+          "country_code": "ES",
+          "name": "Wiber Rent a Car - Málaga"
+        },
+        "review_text_published": "DO NOT TRUST! Eviten este servicio de alquiler de autos. Largas colas para retirar el auto y un servicio de drop off delirante. Alquilan autos con más de 60 mil kilómetros, con un montón de rayones, golpes y detalles en la pintura para después examinar el auto en el drop off durante 15 minutos. Grabe un video del estado del auto al retirarlo y aun así encontrar “daños” en partes que no se veían bien en detalle en el video. Algunos “daños” que se me atribuían pude demostrar que no eran míos y que las fotos con las que contaban no detallaban todos los daños. Aun así dos pequeñas marcas en la pintura fueron suficiente para que no me devuelvan la totalidad del depósito y recarguen al precio del alquiler el arreglo de esos “daños” por el precio de +150€ cada uno. Es un abuso total hacia los clientes y un claro indicio de que estas compañías no están en el negocio de alquiler de autos si no en el negocio de “arreglos” ya que ponen el precio del arreglo de manera unilateral. Un paragolpes nuevo, la pieza entera, cuesta menos que lo cobran por “daños” una vergüenza"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          1.4059655,
+          38.8869117
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-10-30T17:24:30.211072Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x924ddf2d7aa21abe",
+        "location": {
+          "address": "Ctra. de Platja d'en Bossa, s/n, 07817, Illes Balears, Spain",
+          "country_code": "ES",
+          "name": "Wiber Rent a Car - Ibiza"
+        },
+        "review_text_published": "DO NOT TRUST! Eviten este servicio de alquiler de autos. Largas colas para retirar el auto y un servicio de drop off delirante. Alquilan autos con más de 60 mil kilómetros, con un montón de rayones, golpes y detalles en la pintura para después examinar el auto en el drop off durante 15 minutos. Grabe un video del estado del auto al retirarlo y aun así encontrar “daños” en partes que no se veían bien en detalle en el video. Algunos “daños” que se me atribuían pude demostrar que no eran míos y que las fotos con las que contaban no detallaban todos los daños. Aun así dos pequeñas marcas en la pintura fueron suficiente para que no me devuelvan la totalidad del depósito y recarguen al precio del alquiler el arreglo de esos “daños” por el precio de +150€ cada uno. Es un abuso total hacia los clientes y un claro indicio de que estas compañías no están en el negocio de alquiler de autos si no en el negocio de “arreglos” ya que ponen el precio del arreglo de manera unilateral. Un paragolpes nuevo, la pieza entera, cuesta menos que lo cobran por “daños” una vergüenza"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.7380095,
+          39.5389863
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-10-30T17:11:58.904855Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x8e60aa4e8644c701",
+        "location": {
+          "address": "Carrer de Can Singala, 16, Llevant, 07199 Palma, Illes Balears, Spain",
+          "country_code": "ES",
+          "name": "Wiber Rent a Car"
+        },
+        "review_text_published": "DO NOT TRUST! Eviten este servicio de alquiler de autos. Largas colas para retirar el auto y un servicio de drop off delirante. Alquilan autos con más de 60 mil kilómetros, con un montón de rayones, golpes y detalles en la pintura para después examinar el auto en el drop off durante 15 minutos. Grabe un video del estado del auto al retirarlo y aun así encontrar “daños” en partes que no se veían bien en detalle en el video. Algunos “daños” que se me atribuían pude demostrar que no eran míos y que las fotos con las que contaban no detallaban todos los daños. Aun así dos pequeñas marcas en la pintura fueron suficiente para que no me devuelvan la totalidad del depósito y recarguen al precio del alquiler el arreglo de esos “daños” por el precio de +150€ cada uno. Es un abuso total hacia los clientes y un claro indicio de que estas compañías no están en el negocio de alquiler de autos si no en el negocio de “arreglos” ya que ponen el precio del arreglo de manera unilateral. Un paragolpes nuevo, la pieza entera, cuesta menos que lo cobran por “daños” una vergüenza"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.0099095,
+          39.9831413
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-10-16T08:34:28.640019Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc2e512a1c2afdda9",
+        "location": {
+          "address": "Plaça Jaume II, 07750 Ferreries, Illes Balears, Spain",
+          "country_code": "ES",
+          "name": "Restaurante Indio Bondhu"
+        },
+        "review_text_published": "Auténtico restaurante indio en Menorca. Muy muy bueno!"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.0108453,
+          39.9836793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-10-16T08:32:25.919934Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x1360d6041153fce6",
+        "location": {
+          "address": "Carrer Fred, 19, 07760 Ferreries, Illes Balears, Spain",
+          "country_code": "ES",
+          "name": "HOTEL ANHEL"
+        },
+        "review_text_published": "Excelente hospedaje, 10/10 relación precio calidad. Habitaciones amplias y lindas. El pueblo es excelente para recorrer Menorca porque esta en el medio de la isla, el parking público está a unos 400 metros y hay un muy buen restaurante indio a unas pocas cuadras."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.9713948,
+          39.9337600
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-10-14T16:23:41.171944Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x3de41774a0179a7c",
+        "location": {
+          "address": "Spain",
+          "name": "Cala Mitjana"
+        },
+        "review_text_published": "Hermosa cala, 20 minutos caminando desde el parking (parking grande). La playa es pequeña y suele haber mucha gente pero se puede bordear la cala y encontrar espacio sobre las piedras"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.0000033,
+          39.9224891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-10-14T16:18:24.235971Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x56f23d209eb2ec84",
+        "location": {
+          "address": "Spain",
+          "name": "Cala Escorxada"
+        },
+        "review_text_published": "1 hora de trekking arduo, con mucha piedra, subida y bajada para llegar a una playa llena de piedras. La única razón para ir es para evitar gente, pues suele estar desierta y por las hermosas vistas del camino. Si es por el senderismo 10 puntos, pero la playa en mi opinión no vale la pena"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.3657554,
+          39.4638630
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-10-04T12:01:56.785687Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x8998a2e99a83c000",
+        "location": {
+          "address": "Carrer de la Reina Na Germana, 6, Carrer de Joaquín Costa, 50 esquina, 46005 Valencia, Spain",
+          "country_code": "ES",
+          "name": "El Rambo kebab Comida para Llevar"
+        },
+        "questions": [
+          {
+            "question": "Food",
+            "rating": 5
+          },
+          {
+            "question": "Service",
+            "rating": 5
+          },
+          {
+            "question": "Atmosphere",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "La atención es genial y el Kebap muy bueno. Súper recomendable"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.6775086,
+          59.9776110
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-04T13:30:15.684455Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xabbb38cea0b7edab",
+        "location": {
+          "address": "Holmenkollveien 200, 0791 Oslo, Norway",
+          "country_code": "NO",
+          "name": "Frognerseteren"
+        },
+        "questions": [
+          {
+            "question": "Food",
+            "rating": 5
+          },
+          {
+            "question": "Atmosphere",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "Amazing views and great food, not expensive. Really enjoyed it!"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.7541999,
+          59.9143595
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-03T13:27:41.049958Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x90401920e27cb658",
+        "location": {
+          "address": "Brugata 3A, 0186 Oslo, Norway",
+          "country_code": "NO",
+          "name": "King Falafel"
+        },
+        "questions": [
+          {
+            "question": "Food",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "Excellent falafel wrap 10/10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.7128840,
+          59.9275610
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-02T14:19:17.709628Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xca97e24961aa8841",
+        "location": {
+          "address": "Kirkeveien 48, 0368 Oslo, Norway",
+          "country_code": "NO",
+          "name": "Kirkeveien Thai Take Away"
+        },
+        "questions": [
+          {
+            "question": "Food",
+            "rating": 5
+          },
+          {
+            "question": "Service",
+            "rating": 5
+          },
+          {
+            "question": "Atmosphere",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "Excellent food! Delicious and nice size portions!"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6952970,
+          40.4125596
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-08-29T16:48:50.108155Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x64c7c6228c941e29",
+        "location": {
+          "address": "C. de Moratín, 38, Bajo 3, Centro, 28014 Madrid, Spain",
+          "country_code": "ES",
+          "name": "Osom Coffee Cantine (café de especialidad)"
+        },
+        "questions": [
+          {
+            "question": "Food",
+            "rating": 5
+          },
+          {
+            "question": "Service",
+            "rating": 5
+          },
+          {
+            "question": "Atmosphere",
+            "rating": 5
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6991542,
+          40.4342150
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-08-29T16:48:33.510779Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe2ae6e7a1b976596",
+        "location": {
+          "address": "C. del Castillo, 22, Chamberí, 28010 Madrid, Spain",
+          "country_code": "ES",
+          "name": "Osom Coffee House"
+        },
+        "questions": [
+          {
+            "question": "Food",
+            "rating": 5
+          },
+          {
+            "question": "Service",
+            "rating": 5
+          },
+          {
+            "question": "Atmosphere",
+            "rating": 5
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.7077763,
+          40.4166675
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-08-29T16:00:29.485895Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7db6116c2999b35a",
+        "location": {
+          "address": "C. de Bordadores, 5, Centro, 28013 Madrid, Spain",
+          "country_code": "ES",
+          "name": "Kausa Madrid 1"
+        },
+        "questions": [
+          {
+            "question": "Food",
+            "rating": 4
+          },
+          {
+            "question": "Service",
+            "rating": 5
+          },
+          {
+            "question": "Atmosphere",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "Excelente menú del mediodía, varias opciones y todo muy rico. Súper recomendable!"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6965183,
+          40.4262329
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-08-29T15:59:00.347396Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9dd0a93504f7a852",
+        "location": {
+          "address": "Calle de Sta. Teresa, 2, Bajo-Local 4, Centro, 28004 Madrid, Spain",
+          "country_code": "ES",
+          "name": "Osom Coffee Atelier (Café De Especialidad Madrid)"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.1781931,
+          39.9690246
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-04-05T21:35:11.433437Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9c35654fdf4b5b69",
+        "location": {
+          "address": "2441 Aspen St, Philadelphia, PA 19130, United States",
+          "country_code": "US",
+          "name": "Musette"
+        },
+        "review_text_published": "Exactly what I expect of a specialty coffee, they have good food options too"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -58.4488585,
+          -34.5587090
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-03-04T15:56:27.106091Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7c3f0192ed0f9a53",
+        "location": {
+          "address": "Echeverría 1675, Cdad. Autónoma de Buenos Aires, Argentina",
+          "country_code": "AR",
+          "name": "Son of Cebich"
+        },
+        "review_text_published": "Great ceviche on the go! A little bit small and a little bit expensive for the portion they serve, but overall it was good"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6990835,
+          40.4070207
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-02-12T11:34:04.937336Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x8f39f40363d61cd3",
+        "location": {
+          "address": "Calle del Dr. Fourquet, 33, Centro, 28012 Madrid, Spain",
+          "country_code": "ES",
+          "name": "Hola Coffee Fourquet"
+        },
+        "review_text_published": "Uno de los mejores Flats que tome en madrid y el peor sándwich que comí… mientras que vengan solo a tomar café, excelente"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6493508,
+          40.4300351
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-02-11T22:04:08.569681Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x8e7ab0b6b219b57e",
+        "location": {
+          "address": "C. de Sor María de Ágreda, 17, Cdad. Lineal, 28017 Madrid, Spain",
+          "country_code": "ES",
+          "name": "Sushi 8"
+        },
+        "review_text_published": "Excellent take away sushi, fresh, reasonably priced and fast!\nNice gesture with a free sample of dumplings. 👍🏼👍🏼"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.3996606,
+          37.0929183
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-01-14T16:12:29.612173Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x3612629a3f209621",
+        "location": {
+          "address": "Andalucía Pl Edificio Montebajo, local 11 bis, 18196 Sierra Nevada, Granada, Spain",
+          "name": "Lawine Alquiler de esquis y snowboard Sierra Nevada"
+        },
+        "review_text_published": "Excelente Rental.\nJose y Luis te atienden de maravilla!"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -5.3901548,
+          36.8387447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-01-10T15:43:28.814905Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6837257297befede",
+        "location": {
+          "address": "C. Nueva, 3, 11688 Zahara de la Sierra, Cádiz, Spain",
+          "country_code": "ES",
+          "name": "Tower of Tribute"
+        },
+        "review_text_published": "Increíble! Se puede subir hasta la terraza de la torre, caminos y escaleras en perfecto estado, para subir hay que sacar tickets en la entrada de la villa medieval"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -5.8074440,
+          36.7487780
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-01-09T16:05:42.299945Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc6f2597a0248347c",
+        "location": {
+          "address": "C. Dean Espinosa, número 11, 11630 Arcos de la Frontera, Cádiz, Spain",
+          "country_code": "ES",
+          "name": "taberna jóvenes flamencos"
+        },
+        "review_text_published": "Loved the place and the attention, great food great prices 👌🏼"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -5.9893131,
+          37.3859711
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-01-07T21:44:51.988261Z",
+        "five_star_rating_published": 2,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x23e1813096191cd9",
+        "location": {
+          "address": "C. Sta. Teresa, 2, Casco Antiguo, 41004 Sevilla, Spain",
+          "country_code": "ES",
+          "name": "Las Teresas"
+        },
+        "review_text_published": "Tourist trap, authentic food with excessive prices…"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -5.9882948,
+          37.3865882
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-01-07T21:43:07.464387Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7eff573bb6bba54d",
+        "location": {
+          "address": "C/ Ximénez de Enciso, 33, Casco Antiguo, 41004 Sevilla, Spain",
+          "country_code": "ES",
+          "name": "El Pasaje Santa María la Blanca"
+        },
+        "review_text_published": "Excellent food, excellent service, 20 € per person tip and wine included 5/5 ⭐️"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.6215467,
+          41.1449895
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-01-03T19:37:54.351824Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x3c6c1b9734d008ef",
+        "location": {
+          "address": "Rua da Bandeirinha 26, 4050-088 Porto, Portugal",
+          "country_code": "PT",
+          "name": "CASA CAMÉLIA"
+        },
+        "review_text_published": "Amazing hospitality, beautiful rooms and facilities"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -58.3910351,
+          -34.5904795
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-05-12T20:19:57.408900Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x69c8c2f5a2e80e37",
+        "location": {
+          "address": "Vicente López 1825, C1128 Cdad. Autónoma de Buenos Aires, Argentina",
+          "country_code": "AR",
+          "name": "Inoue bistró japonés"
+        },
+        "review_text_published": "Experiencia fantástica, el japo y romi son una capos. Un twist espectacular del sushi tradicional. De lo mejor para disfrutar de gastronomía japonesa en Buenos Aires"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -58.4068491,
+          -34.6447040
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-04-06T13:48:56.224570Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6afc796f4b53b667",
+        "location": {
+          "address": "Atuel 608, C1437 Cdad. Autónoma de Buenos Aires, Argentina",
+          "country_code": "AR",
+          "name": "Citadino"
+        },
+        "review_text_published": "Todo lo que está bien.\n\nDivina esquina, le da siempre el sol, muy bien ambientada, gran café y muy buena comida.\n\nPerfect 10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -56.8599420,
+          -37.1170372
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-02-01T05:17:15.419565Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc4dec30abfe91b41",
+        "location": {
+          "address": "Del Tuyú 257, B7167 Pinamar, Provincia de Buenos Aires, Argentina",
+          "country_code": "AR",
+          "name": "Siston’s Burgers ( Pinamar)"
+        },
+        "review_text_published": "Impecable. Gran burga y cerveza de Minga 👌🏼"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.1083716,
+          42.3460352
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-07-10T02:30:59.566013Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x443ede61a945083f",
+        "location": {
+          "address": "1032 Beacon St, Brookline, MA 02446, United States",
+          "country_code": "US",
+          "name": "Bar 'Cino Brookline"
+        },
+        "review_text_published": "Great place!"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9807302,
+          40.7294328
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-07-01T15:43:38.468214Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7c0089222fd0eb54",
+        "location": {
+          "address": "206 Avenue A, New York, NY 10009, United States",
+          "country_code": "US",
+          "name": "Borrachito Taqueria & Spirits"
+        },
+        "review_text_published": "Great tacos, loved this place!"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -58.4047007,
+          -34.5964787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2020-12-17T20:44:34.306391Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x21c9938e8e20e9d9",
+        "location": {
+          "address": "C1425EUA, Ecuador 1175, C1425EUA Cdad. Autónoma de Buenos Aires, Argentina",
+          "country_code": "AR",
+          "name": "TORi TORi — Japanese Brochette"
+        },
+        "review_text_published": "Lo más!!!! Lugar súper recomendable para comer algo rico y diferente"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -58.4318227,
+          -34.5937719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2020-12-05T22:56:06.554903Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xf1918101f692aa0a",
+        "location": {
+          "address": "Malabia 1148, C1414 Cdad. Autónoma de Buenos Aires, Argentina",
+          "country_code": "AR",
+          "name": "RVR Café."
+        },
+        "review_text_published": "No creo que sea un lugar malo, pero tuve una pésima experiencia. Estaba Narda Lepes comiendo y le dieron demasiada bola a ella, se olvidaron del resto. 👍🏻"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -58.4083510,
+          -34.5791790
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2020-11-14T16:33:00.096637Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xdf13f9226847f815",
+        "location": {
+          "address": "DR, Juan Francisco Seguí 3545 LOCAL 15 A, C1425 Cdad. Autónoma de Buenos Aires, Argentina",
+          "name": "Rapipago"
+        },
+        "review_text_published": "Espanto de lugar, la cajera prefiere maltratarte y enojarse antes que cobrarte una factura. Una falta de respeto"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.6835030,
+          45.0733180
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2020-01-29T10:18:44.210387Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x334ea0cfaa2ff344",
+        "location": {
+          "address": "Via IV Marzo, 5, 10122 Torino TO, Italy",
+          "country_code": "IT",
+          "name": "Daiichi"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -58.4371034,
+          -34.5817876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-12-18T17:40:34.623257Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x5102fc12acbfce7b",
+        "location": {
+          "address": "El Salvador 5783, C1414BQG Cdad. Autónoma de Buenos Aires, Argentina",
+          "country_code": "AR",
+          "name": "M"
+        },
+        "review_text_published": "Excelente, pescados re frescos, muy buen sushi y muy buenos tiraditos!"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -58.4510221,
+          -34.5802711
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-11-23T05:02:23.361981Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xbbf98cc4f6179233",
+        "location": {
+          "address": "Federico Lacroze 3499, C1426 CQH, Cdad. Autónoma de Buenos Aires, Argentina",
+          "country_code": "AR",
+          "name": "Berlina Vórterix"
+        },
+        "review_text_published": "Birra horrible y aguada"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -58.4175812,
+          -34.5876615
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-10-27T02:32:03.426997Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x43d290cf51f00a09",
+        "location": {
+          "address": "Charcas 3787, C1425 Cdad. Autónoma de Buenos Aires, Argentina",
+          "country_code": "AR",
+          "name": "Fat Broder"
+        },
+        "review_text_published": "Tremendas hamburguesas, buenísimo lugar re buena onda"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -66.3925561,
+          -25.5129988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-10-13T18:17:59.294741Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x197a20c9ef33013f",
+        "location": {
+          "address": "Ruta Provincial 52, Km. 20-Molinos, A4419 Salta, Argentina",
+          "country_code": "AR",
+          "name": "Bodega y Estancia Colomé"
+        },
+        "review_text_published": "Increíble lugar increíble experiencia"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -66.1659356,
+          -25.1230095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-10-13T18:16:17.993756Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xfa4039429512d78",
+        "location": {
+          "address": "Av. Automóvil Club Argentino s/n, A4717 Cachi, Salta, Argentina",
+          "name": "Hosteria Cachi"
+        },
+        "review_text_published": "El comedor del ACA es un 10, pasamos por cachi al mediodía de paso a molinos y fue excelente"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -58.4109583,
+          -34.6339861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-10-03T18:26:20.047961Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xa99d02ecadf09775",
+        "location": {
+          "address": "Av. Chiclana 3299, C1259 AAE, Cdad. Autónoma de Buenos Aires, Argentina",
+          "country_code": "AR",
+          "name": "Aloha"
+        },
+        "review_text_published": "Alto lugar"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -58.4552391,
+          -34.5642148
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-09-30T15:50:43.354094Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xa286fbe2915dff49",
+        "location": {
+          "address": "Av. Cabildo 1872, C1428 Cdad. Autónoma de Buenos Aires, Argentina",
+          "country_code": "AR",
+          "name": "Banco de la Nación Argentina"
+        },
+        "review_text_published": "Jamás me trataron tan bien en un banco en mi vida, súper amables"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -58.4325179,
+          -34.5776241
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-08-29T18:45:44.170631Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x561c6eaad88e15d9",
+        "location": {
+          "address": "Ángel Justiniano Carranza 2339, C1425 Cdad. Autónoma de Buenos Aires, Argentina",
+          "country_code": "AR",
+          "name": "Mirutaki Ramen & Sushi"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -58.4084361,
+          -34.5815712
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-05-27T15:59:05.022979Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xea0ec6efad383c1f",
+        "location": {
+          "address": "Cabello 3386, C1425APH Cdad. Autónoma de Buenos Aires, Argentina",
+          "country_code": "AR",
+          "name": "Racqs Deportes"
+        },
+        "review_text_published": "Atención de 10, le mejor calidad en todos los productos que ofrecen y saben mucho 👌🏼"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -58.4018067,
+          -34.5822231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-03-28T16:49:39.669907Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2033c61b6202094a",
+        "location": {
+          "address": "Av. del Libertador 2004, C1425 AAT, Cdad. Autónoma de Buenos Aires, Argentina",
+          "country_code": "AR",
+          "name": "Dandy Recoleta"
+        },
+        "review_text_published": "Muy lindo lugar para comer rápido al sol.\nmucho lugar a mejora en los platos, no son malos pero tampoco muy buenos, con poco podrían mejorar mucho"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -58.6887608,
+          -38.5709091
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-03-02T00:53:49.377348Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x1695a26f3e31a608",
+        "location": {
+          "address": "C. 533 347, B7631 Quequén, Provincia de Buenos Aires, Argentina",
+          "country_code": "AR",
+          "name": "El Portón Gastrobar"
+        },
+        "review_text_published": "Espectacular! pasta fresca y buenas porciones. Los de cordero son increíbles!"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -72.2768200,
+          -50.3386280
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-02-20T14:50:08.300723Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd1b2196a9a94b827",
+        "location": {
+          "address": "Av. del Libertador 1796, Z9405 El Calafate, Santa Cruz, Argentina",
+          "country_code": "AR",
+          "name": "Bocanada"
+        },
+        "review_text_published": "Muy lindo el lugar, buena onda los chicos y sushi muy fresco!"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.9645064,
+          41.0046043
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-02-01T12:51:28.809623Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xaea91ac731eb5ebd",
+        "location": {
+          "address": "Muhsine Hatun, Büyük Kömürcü Sokağı No:6, 34080 Fatih/İstanbul, Türkiye",
+          "country_code": "TR",
+          "name": "Domino's Pizza"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.9749171,
+          41.0299240
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-01-28T11:37:25.783891Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb974728b793c9057",
+        "location": {
+          "address": "Asmalı Mescit, Asmalı Mescit Cd. No:8, 34430 Beyoğlu/İstanbul, Türkiye",
+          "country_code": "TR",
+          "name": "Bilice Kebap"
+        },
+        "review_text_published": "Increible, uno de los mejores lugares para comer en Estambul sin dudas. 10 U$D por cabeza platazo para dos"
+      },
+      "type": "Feature"
+    }
+  ]
+}
